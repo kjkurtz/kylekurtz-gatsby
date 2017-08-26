@@ -5,7 +5,7 @@ dist: trusty
 sudo: required
 before_install:
 - npm install --global gatsby-cli
-- gatsby
+- npm install
 install:
 - gatsby build
 deploy:
