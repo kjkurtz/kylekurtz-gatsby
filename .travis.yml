@@ -5,7 +5,8 @@ dist: trusty
 sudo: required
 before_install:
 - npm install --global gatsby-cli
-- npm install
+- npm install --global yarn
+- yarn
 install:
 - gatsby build
 deploy:
