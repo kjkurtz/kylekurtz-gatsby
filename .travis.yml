@@ -16,7 +16,6 @@ deploy:
     secure: YQltCvJ3+q657noi9yI/ZC5z0emV6hOCAiGVgsgC1Lsd6plK5SIPrr4MmrPj4Xb/vR8BLCIfVJE3jrWwKVnqhnOQY2U82tK4Di218y4uwTgzkt96bC2wbhOivthusdGE8pRukxOAfZ0/2UFhJN2miPg7Po8B2KzgZH8IFPeJgQJszXMIebkO3JRItOAVmuJL4K6HcT727c1YW1uqhbtJVpZhr+CXQBCKCVhbrGmP+vCv5vY8eQH6mUyEtAFOx7sOXDMGWnpihpPCq6ioA2s82K7pAbL3BCqwXnzjnIF1yK223383RYJrlugBGJR4K6+EtDCm2IeX3Ik7gBt47x7dHqyc/goe+Hqxu6FMNRzLuh01NEZpcOIzw9uVp6LOrP3UL2DgyOne9TWNXlYbUb/QbpgfHjwgOCkppOjLAx+Z39vERhNqZMGi9XI64MutyeBihndbPhDOfwF3DrTBZhzZ+gN6wU9wRm8dhKBVsabX7glgV2abxjcXd9M2rFaI/mBHGwFMmuRy6SF+WFhMiURlqgbqbqyBZzwQVfiyTtNGuPYWpuUEfuS2RDAwx6qNabZpi4WnVGyM8lnQZa923FhVAZlwh/JJ95CYOJf7XqeDI6Q7ObXBI4di+kW8YyxRcn+albFvCyu6sVKOq7lOrZUCUD8ZsVAW5e3/zsYJLh8XmAU=
   bucket: kylekurtz.com
   local-dir: public
-  upload-dir: "/"
   acl: public_read
   on:
     repo: kjkurtz/kylekurtz-gatsby
