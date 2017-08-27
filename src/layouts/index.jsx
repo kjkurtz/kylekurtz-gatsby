@@ -22,6 +22,11 @@ const FooterLinks = [
     link: 'https://github.com/kjkurtz',
     color: '#4183c4',
   },
+  {
+    name: 'LinkedIn',
+    link:'https://www.linkedin.com/in/kyle-kurtz-8b844715',
+    color: '#0077B5'
+  }
 ];
 
 export default class Template extends React.Component {

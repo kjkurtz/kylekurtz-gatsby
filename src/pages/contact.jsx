@@ -8,7 +8,7 @@ export default class Index extends React.Component {
       <MainWrapper>
         <Title>Contact</Title>
         <p>
-          Email: <a href="mailto:kyle@kylekurtz.com?Subject=Lets%20Chat" target="_top">kyle@kylekurtz.com</a>
+          Email: <a href="mailto:kyle@kurtz.io?Subject=Lets%20Chat" target="_top">kyle@kurtz.io</a>
         </p>
         <p>
           Twitter: <a href="https://twitter.com/kurtzk">@kurtzk</a>
