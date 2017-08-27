@@ -20,3 +20,4 @@ deploy:
   acl: public_read
   on:
     repo: kjkurtz/kylekurtz-gatsby
+  skip_cleanup: true
